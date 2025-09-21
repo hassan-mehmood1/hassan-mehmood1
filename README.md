@@ -22,10 +22,25 @@ Here are some of the tools and technologies I use regularly:
 | **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) |
 | **Robotics Frameworks** | ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-8A2BE2?logo=ros&logoColor=white) ![Isaac Sim](https://img.shields.io/badge/NVIDIA-Isaac%20Sim-green) |
 | **Control & Simulation** | PX4, ArduPilot, RViz, MATLAB/Simulink |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white) TensorFlow, PyTorch |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
 | **Embedded Systems** | STM32, ESP32, Jetson, Raspberry Pi |
-| **Cloud & DevOps** | GitHub Actions, Docker, Linux, CI/CD |
 | **Other** | Project Planning, Agile/Scrum, Technical Documentation |
+
+---
+
+### 📫 Let’s Connect  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hassan-mehmood1/)  
+- 📧 Email: hassan66169@gmail.com  
+
+
+💡 *I’m always open to collaborating on innovative robotics projects or research initiatives — feel free to reach out!*
+
+
+<!--
+## Hi there 👋
+- 📝 [Portfolio / Website](https://yourwebsite.com)
+
+**hassan-mk/hassan-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
 
@@ -45,22 +60,6 @@ Algorithms for multi-robot coordination, obstacle avoidance, and task allocation
 
 #### [📦 Open-Source ROS Packages](https://github.com/yourusername?tab=repositories&q=ros)  
 Collection of ROS packages for perception, navigation, and sensor integration.
-
----
-
-### 📫 Let’s Connect  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/hassan-mehmood1/)  
-- 📧 Email: hassan66169@gmail.com  
-
-
-💡 *I’m always open to collaborating on innovative robotics projects or research initiatives — feel free to reach out!*
-
-
-<!--
-## Hi there 👋
-- 📝 [Portfolio / Website](https://yourwebsite.com)
-
-**hassan-mk/hassan-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
