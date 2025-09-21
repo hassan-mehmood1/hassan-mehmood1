@@ -22,7 +22,7 @@ Here are some of the tools and technologies I use regularly:
 | **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) |
 | **Robotics Frameworks** | ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-8A2BE2?logo=ros&logoColor=white) ![Isaac Sim](https://img.shields.io/badge/NVIDIA-Isaac%20Sim-green) |
 | **Control & Simulation** | PX4, ArduPilot, RViz, MATLAB/Simulink |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white) |
 | **Embedded Systems** | STM32, ESP32, Jetson, Raspberry Pi |
 | **Other** | Project Planning, Agile/Scrum, Technical Documentation |
 
