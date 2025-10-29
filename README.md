@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Hassan Mehmood
 
 ### 🚀 About Me  
-I’m a **Drone Developer & Robotics Specialist** passionate about building intelligent, autonomous systems.  
+I’m a **Robotics Specialist** passionate about building intelligent, autonomous systems.  
 With expertise in both **hardware and software development**, I design and integrate customized **UGVs, UAVs, and quadruped robots**.  
 
 My work bridges cutting-edge research and real-world applications, focusing on:  
